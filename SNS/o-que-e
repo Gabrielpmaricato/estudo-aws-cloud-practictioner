@@ -1,6 +1,8 @@
 # AWS SNS Simple Notification Service (Serviço de Notificação Simples)
 
-O SNS na AWS significa Simple Notification Service (Serviço de Notificação Simples). É um serviço de mensagens da Amazon Web Services (AWS) que permite enviar notificações push para assinantes ou outros aplicativos. O SNS utiliza o padrão publisher-subscriber, onde publicadores enviam mensagens para tópicos, e assinantes se inscrevem nesses tópicos para receber as mensagens. 
+O SNS na AWS significa Simple Notification Service (Serviço de Notificação Simples). É um serviço de mensagens da Amazon Web Services (AWS) que permite enviar notificações push para assinantes ou outros aplicativos. 
+
+O SNS utiliza o padrão publisher-subscriber, onde publicadores enviam mensagens para tópicos, e assinantes se inscrevem nesses tópicos para receber as mensagens.
 
 Em detalhes:
 Serviço de Mensagens:
