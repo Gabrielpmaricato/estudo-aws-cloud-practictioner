@@ -6,7 +6,7 @@ Ele permite automatizar a criação, atualização e exclusão de recursos da AW
 
 Em resumo: CloudFormation é uma ferramenta de Infraestrutura como Código (IaC) para a AWS, que permite gerenciar a infraestrutura da nuvem por meio de código. 
 
-<h1>Como funciona:</h1>
+<h1>Como funciona</h1>
 
 1. Modelo:
 Você cria um arquivo de modelo (em JSON ou YAML) que descreve a infraestrutura desejada, incluindo os tipos de recursos AWS (como instâncias EC2, bancos de dados, etc.) e suas configurações. 
@@ -20,16 +20,16 @@ O CloudFormation interpreta o modelo e provisiona automaticamente todos os recur
 4. Gerenciamento:
 O CloudFormation permite atualizar e gerenciar a infraestrutura provisionada, aplicando alterações ao modelo e atualizando a pilha de acordo. 
 
-<b>Benefícios:</b>
+<h1>Benefícios:</h1>
 
-1 - Automação: Automatiza o provisionamento e gerenciamento da infraestrutura, economizando tempo e esforço.
+1. Automação: Automatiza o provisionamento e gerenciamento da infraestrutura, economizando tempo e esforço.
 
-2 - Consistência: Garante que a infraestrutura seja consistente e replicável em diferentes ambientes. 
+2. Consistência: Garante que a infraestrutura seja consistente e replicável em diferentes ambientes. 
 
-3 - Infraestrutura como Código: Permite tratar a infraestrutura como código, facilitando o versionamento, compartilhamento e reutilização. 
+3. Infraestrutura como Código: Permite tratar a infraestrutura como código, facilitando o versionamento, compartilhamento e reutilização. 
 
-4 - Escalabilidade: Facilita a expansão e redução da infraestrutura conforme a necessidade. 
+4. Escalabilidade: Facilita a expansão e redução da infraestrutura conforme a necessidade. 
 
-5 - Custo-efetividade: Permite otimizar o uso dos recursos e evitar custos desnecessários. 
+5. Custo-efetividade: Permite otimizar o uso dos recursos e evitar custos desnecessários. 
 
-6 - Em outras palavras: O AWS CloudFormation é uma ferramenta poderosa que permite aos desenvolvedores e administradores de sistemas definirem e gerenciarem a infraestrutura da AWS de forma automatizada, consistente e escalável, usando o conceito de "Infraestrutura como Código". 
+6. Em outras palavras: O AWS CloudFormation é uma ferramenta poderosa que permite aos desenvolvedores e administradores de sistemas definirem e gerenciarem a infraestrutura da AWS de forma automatizada, consistente e escalável, usando o conceito de "Infraestrutura como Código". 
