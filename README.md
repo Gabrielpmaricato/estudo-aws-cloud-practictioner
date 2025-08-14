@@ -21,3 +21,19 @@ Antes que sua certificação expire, você pode renová-la por meio de uma das o
 Conclua o novo aprendizado lúdico AWS Cloud Quest: Recertify Cloud Practitioner. Esta opção guiada e individualizada é gratuita durante o período beta, que termina no final de julho de 2025. Nenhuma preparação ou realização de exame é necessária para essa opção de renovação da certificação baseada em jogos.
 Receba aprovação na versão mais recente do exame AWS Certified Cloud Practitioner
 Obtenha uma certificação no nível Associate ou Professional
+
+# Certificações AWS com Vouchers Gratuitos
+
+A AWS está oferecendo vouchers 100% gratuitos para exames de certificação nos níveis Foundational e Associate através do programa AWS Educate. Os vouchers são válidos até 31 de agosto de 2025
+
+# Como conseguir seu voucher gratuito
+
+1 - Crie uma conta no AWS Educate
+
+2 - Acesse o AWS Skill Builder com o mesmo e-mail
+
+3 - Complete cursos e testes (como “Getting Started with Compute”) e ganhe badges
+
+4 - Entre na Emerging Talent Community (ETC) e faça cursos preparatórios + simulados
+
+5 - Junte pontos na ETC (4.500 ou 5.200) e resgate seu voucher no menu “Rewards”
