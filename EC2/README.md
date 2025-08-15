@@ -1,6 +1,6 @@
 # Amazon EC2 (Elastic Compute Cloud)
 
-O Amazon EC2 (Elastic Compute Cloud) é um serviço web da Amazon Web Services (AWS) que fornece capacidade de computação escalável na nuvem. 
+O <b>Amazon EC2 (Elastic Compute Cloud) </b> é um serviço web da Amazon Web Services (AWS) que fornece capacidade de computação escalável na nuvem. 
 
 Simplificando, ele permite que você alugue servidores virtuais (instâncias) na nuvem, pagando apenas pelo tempo que os utiliza. 
 
