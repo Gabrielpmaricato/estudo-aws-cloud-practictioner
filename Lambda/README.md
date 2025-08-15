@@ -35,6 +35,6 @@ Paga apenas pelo que usa, eliminando custos com infraestrutura ociosa.
 Fornece um ambiente seguro e isolado para a execução do seu código. 
 
 Exemplos de uso:
-Processamento de imagens e vídeos, Criação de APIs, Automação de tarefas em outros serviços AWS, Processamento de dados em tempo real, Criação de chatbots e assistentes virtuais. 
 
-Em resumo, o AWS Lambda é uma ferramenta poderosa para desenvolvedores que desejam criar aplicações escaláveis e eficientes, sem se preocupar com a infraestrutura subjacente. 
+1. Processamento de imagens e vídeos, Criação de APIs, Automação de tarefas em outros serviços AWS, Processamento de dados em tempo real, Criação de chatbots e assistentes virtuais. 
+2. Em resumo, o AWS Lambda é uma ferramenta poderosa para desenvolvedores que desejam criar aplicações escaláveis e eficientes, sem se preocupar com a infraestrutura subjacente. 
