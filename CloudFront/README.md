@@ -1,26 +1,25 @@
-# AWS CloudFormation
-
-O AWS CloudFormation é um serviço da Amazon Web Services (AWS) que permite aos usuários definir e provisionar recursos de infraestrutura AWS como código, usando arquivos de modelo JSON ou YAML. Ele permite automatizar a criação, atualização e exclusão de recursos da AWS de forma previsível e repetível, agrupados em "pilhas". 
-
-Em resumo: CloudFormation é uma ferramenta de Infraestrutura como Código (IaC) para a AWS, que permite gerenciar a infraestrutura da nuvem por meio de código. 
-Como funciona:
-
-1. Modelo:
-Você cria um arquivo de modelo (em JSON ou YAML) que descreve a infraestrutura desejada, incluindo os tipos de recursos AWS (como instâncias EC2, bancos de dados, etc.) e suas configurações. 
-
-2. Pilha:
-Você usa o modelo para criar uma "pilha" no CloudFormation. A pilha é um conjunto de recursos que são gerenciados como uma única unidade. 
-
-3. Provisionamento:
-O CloudFormation interpreta o modelo e provisiona automaticamente todos os recursos definidos na pilha, garantindo que a infraestrutura corresponda à descrição no modelo. 
-
-4. Gerenciamento:
-O CloudFormation permite atualizar e gerenciar a infraestrutura provisionada, aplicando alterações ao modelo e atualizando a pilha de acordo. 
-
-Benefícios:
-Automação: Automatiza o provisionamento e gerenciamento da infraestrutura, economizando tempo e esforço. 
-Consistência: Garante que a infraestrutura seja consistente e replicável em diferentes ambientes. 
-Infraestrutura como Código: Permite tratar a infraestrutura como código, facilitando o versionamento, compartilhamento e reutilização. 
-Escalabilidade: Facilita a expansão e redução da infraestrutura conforme a necessidade. 
-Custo-efetividade: Permite otimizar o uso dos recursos e evitar custos desnecessários. 
-Em outras palavras: O AWS CloudFormation é uma ferramenta poderosa que permite aos desenvolvedores e administradores de sistemas definirem e gerenciarem a infraestrutura da AWS de forma automatizada, consistente e escalável, usando o conceito de "Infraestrutura como Código". 
+O CloudFront é uma rede de entrega de conteúdo (CDN) global fornecida pela Amazon Web Services (AWS). Ele acelera a entrega de conteúdo web, como páginas, imagens, vídeos e outros arquivos, aos usuários, utilizando uma rede de servidores espalhados pelo mundo. Essa distribuição global permite que os usuários recebam o conteúdo do servidor mais próximo, resultando em menor latência e maior velocidade de carregamento. 
+Como funciona o CloudFront:
+1. Distribuição Global:
+O CloudFront armazena cópias do seu conteúdo em vários data centers ao redor do mundo, chamados "pontos de presença" (PoPs) ou "edge locations".
+2. Solicitação do Usuário:
+Quando um usuário acessa seu conteúdo, o CloudFront identifica o PoP mais próximo e encaminha a solicitação para esse local.
+3. Entrega Rápida:
+O conteúdo é entregue ao usuário a partir do PoP, resultando em uma experiência mais rápida e eficiente. 
+Benefícios do CloudFront:
+Melhora o desempenho do site:
+Reduz a latência e o tempo de carregamento, proporcionando uma melhor experiência ao usuário. 
+Escalabilidade:
+Permite lidar com picos de tráfego e garantir que o conteúdo esteja sempre disponível. 
+Segurança:
+Oferece recursos como criptografia de dados e controle de acesso para proteger seu conteúdo. 
+Redução de custos:
+Otimiza a entrega de conteúdo, podendo reduzir os custos de transferência de dados, especialmente para conteúdo hospedado em serviços da AWS. 
+Integração com a AWS:
+Facilidade de integração com outros serviços da AWS, como S3, EC2 e Lambda. 
+Casos de uso:
+Entrega de conteúdo estático: Imagens, arquivos CSS, JavaScript, etc. 
+Streaming de vídeos: Sob demanda ou ao vivo. 
+Aceleração de aplicações web: Melhora a experiência do usuário em sites e aplicações. 
+Entrega de APIs: Reduz a latência para solicitações de API. 
+Em resumo, o CloudFront é uma ferramenta poderosa para otimizar a entrega de conteúdo e melhorar a experiência do usuário, especialmente para aplicações com alcance globa
