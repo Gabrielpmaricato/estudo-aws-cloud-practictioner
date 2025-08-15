@@ -1,4 +1,5 @@
 O CloudFront é uma rede de entrega de conteúdo (CDN) global fornecida pela Amazon Web Services (AWS). Ele acelera a entrega de conteúdo web, como páginas, imagens, vídeos e outros arquivos, aos usuários, utilizando uma rede de servidores espalhados pelo mundo. Essa distribuição global permite que os usuários recebam o conteúdo do servidor mais próximo, resultando em menor latência e maior velocidade de carregamento. 
+
 Como funciona o CloudFront:
 1. Distribuição Global:
 O CloudFront armazena cópias do seu conteúdo em vários data centers ao redor do mundo, chamados "pontos de presença" (PoPs) ou "edge locations".
